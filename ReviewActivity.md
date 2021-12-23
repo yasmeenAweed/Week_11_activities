@@ -7,8 +7,10 @@ Please choose some questions from the Blockchain stack.
 
 
 
-**Week 9, Day 3** (optional Learn link for this topic or question)  
+**Week 9, Day 3** 
+
 **Question:** from the following what is not kind of stable coin? 
+
 **Answer:** 
 - A Fiat-backed
 - B Commodity-backed
@@ -23,7 +25,9 @@ Blocks are linked forwards, and each block refers to the next block in the chain
 
 
 **Answer:** 
+
 -T
+
 -F 
 
 
