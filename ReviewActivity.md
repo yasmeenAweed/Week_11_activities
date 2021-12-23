@@ -30,6 +30,23 @@ Blocks are linked forwards, and each block refers to the next block in the chain
 
 -F 
 
+**Week 9 Day 2**
+
+**Question:** 
+
+We can make money with Bitcoin by?
+
+**Answer:** 
+
+A. Minnig
+
+B. Buying
+
+C. Earning
+
+D. All of the above
+
+
 
 After questions are prepared, you can test other members in your group. Have fun! :)
 
